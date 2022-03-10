@@ -8,7 +8,7 @@ This is a minimal project with [Hono[炎]](https://github.com/yusukebe/hono/) fo
 - TypeScript
 - [esbuild](https://github.com/evanw/esbuild) to build
 - [Miniflare](https://github.com/cloudflare/miniflare) to develop
-- [jest](https://jestjs.io/ja/) to test
+- [Jest](https://jestjs.io/ja/) to test
 - Fast
 - Live reload
 

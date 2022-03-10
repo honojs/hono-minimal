@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "hono": "^0.5.1"
+    "hono": "^0.5.2"
   },
   "devDependencies": {
     "@types/jest": "^27.4.1",
