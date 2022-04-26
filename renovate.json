@@ -1,5 +1,19 @@
 {
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:base",
+    ":timezone(Asia/Tokyo)"
+  ],
+  "schedule": [
+    "after 2am"
+  ],
+  "dependencyDashboard": true,
+  "packageRules": [
+    {
+      "matchPackageNames": [
+        "hono"
+      ],
+      "rangeStrategy": "pin"
+    }
   ]
 }
