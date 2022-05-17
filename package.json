@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "jest --verbose",
-    "dev": "wrangler dev src/index.ts",
+    "dev": "wrangler dev src/index.ts --local",
     "deploy": "wrangler publish src/index.ts"
   },
   "license": "MIT",
