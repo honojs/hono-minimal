@@ -18,7 +18,7 @@
     "esbuild-jest": "0.5.0",
     "jest": "28.1.0",
     "jest-environment-miniflare": "2.4.0",
-    "miniflare": "2.4.0",
+    "miniflare": "2.5.0",
     "wrangler": "^2.0.6"
   }
 }
